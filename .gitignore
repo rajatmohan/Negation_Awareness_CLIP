@@ -1,0 +1,57 @@
+DEO-negation-aware-retrieval-master/
+llm_cache/
+embeddings_cache/
+project_data.tar.gz
+alltrain2014/
+train2014/
+val2017/
+visual7w_images/
+train2014.zip
+val2017.zip
+visual7w_images.zip
+learned_vectors/
+COCO_val_mcq_llama3.1_rephrased.json
+COCO_val_negated_retrieval_llama3.1_rephrased_affneg_true.csv
+existence.json
+gemini_negation_dataset.json
+gemini_negation_dataset2.json
+negationclip_captions_train2014.json
+negationclip_ViT-B32.pth
+NegRefCOCOg.json
+ .vscode/
+STEERED_CLIP_FIX.md
+Screenshot 2026-04-27 225539.png
+eigenvector_3d_comparison.png
+eigenvector_alignment_heatmap.png
+eigenvector_comparison_pc1_pc2.png
+figure7_experiment copy.ipynb
+figure7_experiment.ipynb
+figure_7_3d_pca_reproduction.png
+figure_7_negation_steering.png
+imagenet/
+images/
+learned_vectors/
+learned_vectors copy/
+negation_steering_2d_pca.png
+negation_steering_pca_3d_visualization.png
+notebook copy 2.ipynb
+pca_embeddings_fig7.png
+qwen4billion.ipynb
+src/models/steered_clip copy.py
+zeroshot_cache_DEO_plus_NegationCLIP.pt
+zeroshot_cache_DEO_plus_NegationCLIP_v1.pt
+zeroshot_cache_DEO_plus_Original_CLIP.pt
+zeroshot_cache_DEO_plus_Original_CLIP_v1.pt
+zeroshot_cache_Neg_plus_Steered_CLIP.pt
+zeroshot_cache_Neg_plus_Steered_CLIP_v1.pt
+zeroshot_cache_NegationCLIP.pt
+zeroshot_cache_NegationCLIP_v1.pt
+zeroshot_cache_Org_plus_Steered_CLIP.pt
+zeroshot_cache_Org_plus_Steered_CLIP_v1.pt
+zeroshot_cache_Original_CLIP.pt
+zeroshot_cache_Original_CLIP_v1.pt
+.vscode/
+figure7_experiment copy.ipynb
+notebook copy 2.ipynb
+*.pyc
+__pycache__/
